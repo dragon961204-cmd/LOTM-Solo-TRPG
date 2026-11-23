@@ -1,0 +1,15 @@
+# 舊 GitHub 世界觀庫：參考與採用政策
+
+來源： https://github.com/dragon961204-cmd/- （公開舊研究專案）
+
+已檢查：
+- docs/PROJECT_RULES.md：這是**前一版遊戲設計**，包括開放世界／5 AP等提案，不自動適用本 TRPG。
+- lore/history/README.md，lore/history/tingen_1349_v1.json：第一部1349廷根背景的索引；很多精確日期標記待核。
+- lore/pathways/pathway_registry_v1.json：22個標準途徑、序列9至0；名稱與部分細節仍有待核實內容。
+- lore/organizations/index.json：組織名錄及關聯。
+- lore/characters/biographies/：原作人物傳記草稿，可按需要逐人核對。
+- game/events/part_one_story_tree.md、tingen_branch_map.md：**舊遊戲的**可能分支及事件結構，僅供研究、不是本局已成立的線路。
+
+規則：本次新 TRPG 的玩家是固定身分23歲出版社校對員、康斯頓出身，已於1349-11-27在阿什頓家；不套用舊版創角隨機家庭、每天5AP、已寫的廷根倉庫故事。保持原作事件獨立運轉。**原作廷根之變在舊庫暫記1349年9月，這個新故事目前在11月；除非另有可靠核驗，不可讓玩家事後參加9月事件。** 可接觸後續影響、檔案、參與者以及世界動態，但需要場景中的合理入口。
+
+參照時按「明確原作與核驗狀態」「舊世界觀整理」「本團自創事實」分層。自創 NPC、道具、秘聞不得偽裝成原作設定；不可自動讓所有舊遊戲支線出現在本局。
